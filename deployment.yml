@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: aziz27uk/netflix
+        image: aziz27uk/hotstar
         ports:
         - containerPort: 3000   # Use port 3000
 
